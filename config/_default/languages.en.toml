@@ -15,4 +15,7 @@ description = "Mason Speck's portfolio and blog"
 [author]
 name = "Mason Speck"
 headline = "Software Engineer"
-links = [ { github = "github.com/StopwatchString" }, { linkedin = "https://www.linkedin.com/in/mason-speck-962b3b1a7" } ]
+links = [ 
+    { github = "github.com/StopwatchString" },
+     { linkedin = "https://www.linkedin.com/in/mason-speck-962b3b1a7" }
+]

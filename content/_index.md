@@ -1,0 +1,3 @@
+# Homepage
+
+[Posts]('/posts')

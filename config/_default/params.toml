@@ -10,7 +10,7 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [header]
-layout = "fixed"
+layout = "basic"
 
 [footer]
 showMenu = true
