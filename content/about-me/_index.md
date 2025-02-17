@@ -3,37 +3,24 @@ title: "About Me"
 description: ""
 ---
 
+I'm a software engineer based in Dayton Ohio with a passion for learning about and writing high performance code. Professionally I spend my time writing code for real-time simulations used in training.
+
+As a hobbyist I also have a passion for graphics programming, and enjoy building desktop apps using OpenGL and Vulkan.
+
+## Employment History
+
 {{< timeline >}}
 
-{{< timelineItem icon="github" header="header" badge="badge test" subheader="subheader" >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non magna ex. Donec sollicitudin ut lorem quis lobortis. Nam ac ipsum libero. Sed a ex eget ipsum tincidunt venenatis quis sed nisl. Pellentesque sed urna vel odio consequat tincidunt id ut purus. Nam sollicitudin est sed dui interdum rhoncus. 
+{{< timelineItem icon="code" header="JF Taylor" badge="08/2023-Present" subheader="Software Engineer" >}}
+
+Working on features and optimizations for JF Taylor's real-time simulators. Also creating OpenGL and OpenXR solutions to support mixed reality.
 {{< /timelineItem >}}
 
 
-{{< timelineItem icon="code" header="Another Awesome Header" badge="date - present" subheader="Awesome Subheader" >}}
-With html code
-<ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
-{{< /timelineItem >}}
+{{< timelineItem icon="code" header="Aptima" badge="01/2021-08/2022" subheader="Software Engineer Intern" >}}
 
-{{< timelineItem icon="star" header="Shortcodes" badge="AWESOME" >}}
-With other shortcodes
-{{< gallery >}}
-  <img src="gallery/01.jpg" class="grid-w33" />
-  <img src="gallery/02.jpg" class="grid-w33" />
-  <img src="gallery/03.jpg" class="grid-w33" />
-  <img src="gallery/04.jpg" class="grid-w33" />
-  <img src="gallery/05.jpg" class="grid-w33" />
-  <img src="gallery/06.jpg" class="grid-w33" />
-  <img src="gallery/07.jpg" class="grid-w33" />
-{{< /gallery >}}
-{{< /timelineItem >}}
+Developed features for software. Contributed to refactor of network stack into using protobufs and MQTT.
 
-{{< timelineItem icon="code" header="Another Awesome Header">}}
-{{< github repo="nunocoracao/blowfish" >}}
 {{< /timelineItem >}}
 
 {{< /timeline >}}
