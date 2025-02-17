@@ -1,4 +1,4 @@
 ---
-title: "Homepage"
+title: "Code Snippets"
 description: ""
 ---
