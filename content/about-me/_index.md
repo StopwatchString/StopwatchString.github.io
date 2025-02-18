@@ -11,13 +11,12 @@ As a hobbyist I also have a passion for graphics programming, and enjoy building
 
 {{< timeline >}}
 
-{{< timelineItem icon="code" header="JF Taylor" badge="08/2023-Present" subheader="Software Engineer" >}}
+{{< timelineItem icon="code" header="JF Taylor" badge="August 2023 - Present" subheader="Software Engineer" >}}
 
 Working on features and optimizations for JF Taylor's real-time simulators. Also creating OpenGL and OpenXR solutions to support mixed reality.
 {{< /timelineItem >}}
 
-
-{{< timelineItem icon="code" header="Aptima" badge="01/2021-08/2022" subheader="Software Engineer Intern" >}}
+{{< timelineItem icon="code" header="Aptima" badge="January 2021 - August 2022" subheader="Software Engineer Intern" >}}
 
 Developed features for software. Contributed to refactor of network stack into using protobufs and MQTT.
 
