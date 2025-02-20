@@ -4,7 +4,7 @@ draft: false
 title: 'OpenGL Interprocess Resource Sharing via DirectX'
 ---
 
-Here's a problem I recently encountered at work. The setup:
+Here's a problem I recently tackled. The setup:
 
 You have two processes running, each with their own OpenGL context. In context A you have full source code control of the graphics context. In context B you have limited control- you're interfacing with someone else's render loop via a dll interface, and can't modify the underlying machinery without breaking contract for what your plugin is doing to their engine. You need to move the color output of the framebuffer from context B into context A to be used for render every frame, with minimal latency and performance impact.
 
