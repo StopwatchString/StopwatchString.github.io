@@ -1,8 +1,11 @@
 ---
 date: '2025-02-15T20:38:16-05:00'
-draft: false
+draft: true
 title: 'OpenGL Interprocess Resource Sharing via DirectX'
 ---
+
+How can we share a texture between two different processes when our rendering is done entirely in OpenGL in both processes? In DirectX and Vulkan this is very simple
+
 
 Here's a problem I recently tackled. The setup:
 
@@ -49,3 +52,4 @@ This desynchronized blocking is a real beast to solve. You can add asynchronous 
 
 ## DirectX Interop
 
+https://forums.developer.nvidia.com/t/sharing-render-buffers-or-render-textures-among-multiple-opengl-contexts/77168/23?page=2
